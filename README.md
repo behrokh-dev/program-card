@@ -18,6 +18,6 @@ This project focuses on clean UI design, smooth hover effects, and responsive la
 - CSS3  
 
 ## 📸 Preview
-![Preview](./preview.png)
+<img width="1895" height="868" alt="Image" src="https://github.com/user-attachments/assets/01210959-a9e0-4681-88b6-df9499988670" />
 
 > You can replace this image with a screenshot of your project.
